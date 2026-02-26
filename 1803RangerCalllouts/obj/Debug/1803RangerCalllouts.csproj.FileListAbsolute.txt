@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\1803RangerCalllouts\obj\Debug\1803RangerCalllouts.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\1803RangerCalllouts\obj\Debug\1803RangerCalllouts.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\1803RangerCalllouts\bin\Debug\1803RangerCalllouts.dll
+C:\Users\Matt\source\repos\1803RangerCalllouts\bin\Debug\1803RangerCalllouts.pdb
+C:\Users\Matt\source\repos\1803RangerCalllouts\bin\Debug\LSPD First Response.dll
+C:\Users\Matt\source\repos\1803RangerCalllouts\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Matt\source\repos\1803RangerCalllouts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matt\source\repos\1803RangerCalllouts\obj\Debug\1803RangerCalllouts.csproj.CopyComplete
+C:\Users\Matt\source\repos\1803RangerCalllouts\obj\Debug\1803RangerCalllouts.dll
+C:\Users\Matt\source\repos\1803RangerCalllouts\obj\Debug\1803RangerCalllouts.pdb
